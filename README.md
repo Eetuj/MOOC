@@ -1,7 +1,7 @@
 # MOOC 2018
 Every week's final exercises which are bit longer and challenging. At least according to University of Helsinki :D      
   
-  Week 1: Robotcontroller part 2  
+  Week 1: Robot controller part 2  
     Week 2: Linecoctail :D (literal translation)   
       Week 3: Photoshop ripoff  
         Week 4: Some music  
@@ -14,7 +14,7 @@ Every week's final exercises which are bit longer and challenging. At least acco
                       Week 11: The cave  
                         Week 12: Game of Life  
                           Week 13: Worm game  
-                            Week 14: Game of Sticks
+                            Week 14: Game of Sticks (partly finished)
                               
                                 
  
